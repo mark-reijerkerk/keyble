@@ -40,6 +40,6 @@
 		"package-lock.json"
 	],
 	"devDependencies": {
-		"jsdoc": "^3.6.6"
+		"jsdoc": "^4.0.2"
 	}
 }
